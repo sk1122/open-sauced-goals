@@ -1,14 +1,14 @@
 [
   {
     "full_name": "DevonCrawford/Video-Editing-Automation",
-    "stargazers_count": 1039,
+    "stargazers_count": 1041,
     "open_issues_count": 9,
     "forks_count": 154
   },
   {
     "full_name": "fkhadra/react-toastify",
-    "stargazers_count": 7620,
-    "open_issues_count": 38,
+    "stargazers_count": 7641,
+    "open_issues_count": 33,
     "forks_count": 398
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "gojek/heimdall",
-    "stargazers_count": 2050,
+    "stargazers_count": 2054,
     "open_issues_count": 37,
     "forks_count": 173
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "pennersr/django-allauth",
-    "stargazers_count": 6736,
+    "stargazers_count": 6745,
     "open_issues_count": 406,
-    "forks_count": 2417
+    "forks_count": 2424
   },
   {
     "full_name": "HotPotatoC/twitter-clone",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "joke2k/faker",
-    "stargazers_count": 13077,
-    "open_issues_count": 163,
-    "forks_count": 1491
+    "stargazers_count": 13086,
+    "open_issues_count": 164,
+    "forks_count": 1499
   },
   {
     "full_name": "sk1122/Bayze-Kanban",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "benawad/dogehouse",
-    "stargazers_count": 9217,
+    "stargazers_count": 9215,
     "open_issues_count": 233,
-    "forks_count": 1565
+    "forks_count": 1564
   },
   {
     "full_name": "inloop/sqlite-viewer",
-    "stargazers_count": 466,
+    "stargazers_count": 469,
     "open_issues_count": 15,
-    "forks_count": 181
+    "forks_count": 183
   },
   {
     "full_name": "sk1122/Kanban-Board",
@@ -87,11 +87,11 @@
     "full_name": "garg3133/JagratiWebApp",
     "stargazers_count": 45,
     "open_issues_count": 38,
-    "forks_count": 127
+    "forks_count": 126
   },
   {
     "full_name": "js-cookie/js-cookie",
-    "stargazers_count": 18503,
+    "stargazers_count": 18522,
     "open_issues_count": 2,
     "forks_count": 1994
   },
@@ -117,13 +117,13 @@
     "full_name": "purnima143/Kurakoo",
     "stargazers_count": 78,
     "open_issues_count": 25,
-    "forks_count": 124
+    "forks_count": 125
   },
   {
     "full_name": "Praful932/Kitabe",
     "stargazers_count": 105,
     "open_issues_count": 2,
-    "forks_count": 125
+    "forks_count": 124
   },
   {
     "full_name": "tush-tr/car-rental-system",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "pytube/pytube",
-    "stargazers_count": 4728,
-    "open_issues_count": 34,
-    "forks_count": 1133
+    "stargazers_count": 4742,
+    "open_issues_count": 37,
+    "forks_count": 1137
   },
   {
     "full_name": "ornicar/lila",
-    "stargazers_count": 9991,
-    "open_issues_count": 490,
-    "forks_count": 1452
+    "stargazers_count": 10004,
+    "open_issues_count": 501,
+    "forks_count": 1453
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 9052,
-    "open_issues_count": 277,
-    "forks_count": 385
+    "stargazers_count": 9163,
+    "open_issues_count": 284,
+    "forks_count": 386
   },
   {
     "full_name": "sounishnath003/Educatify",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 16082,
-    "open_issues_count": 178,
-    "forks_count": 2494
+    "stargazers_count": 16097,
+    "open_issues_count": 180,
+    "forks_count": 2499
   }
 ]
