@@ -7,8 +7,8 @@
   },
   {
     "full_name": "fkhadra/react-toastify",
-    "stargazers_count": 8343,
-    "open_issues_count": 37,
+    "stargazers_count": 8363,
+    "open_issues_count": 38,
     "forks_count": 436
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "gojek/heimdall",
-    "stargazers_count": 2171,
+    "stargazers_count": 2173,
     "open_issues_count": 44,
     "forks_count": 188
   },
   {
     "full_name": "lexborisov/myhtml",
-    "stargazers_count": 1519,
+    "stargazers_count": 1520,
     "open_issues_count": 17,
     "forks_count": 146
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "pennersr/django-allauth",
-    "stargazers_count": 7012,
-    "open_issues_count": 304,
+    "stargazers_count": 7016,
+    "open_issues_count": 298,
     "forks_count": 2528
   },
   {
     "full_name": "HotPotatoC/twitter-clone",
-    "stargazers_count": 317,
+    "stargazers_count": 318,
     "open_issues_count": 7,
     "forks_count": 42
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "joke2k/faker",
-    "stargazers_count": 13669,
-    "open_issues_count": 178,
-    "forks_count": 1567
+    "stargazers_count": 13689,
+    "open_issues_count": 170,
+    "forks_count": 1573
   },
   {
     "full_name": "sk1122/Bayze-Kanban",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "benawad/dogehouse",
-    "stargazers_count": 9186,
+    "stargazers_count": 9189,
     "open_issues_count": 231,
-    "forks_count": 1560
+    "forks_count": 1561
   },
   {
     "full_name": "inloop/sqlite-viewer",
-    "stargazers_count": 509,
+    "stargazers_count": 510,
     "open_issues_count": 16,
-    "forks_count": 206
+    "forks_count": 209
   },
   {
     "full_name": "sk1122/Kanban-Board",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "js-cookie/js-cookie",
-    "stargazers_count": 19021,
+    "stargazers_count": 19033,
     "open_issues_count": 1,
     "forks_count": 2020
   },
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "pytube/pytube",
-    "stargazers_count": 5352,
-    "open_issues_count": 100,
-    "forks_count": 1266
+    "stargazers_count": 5369,
+    "open_issues_count": 106,
+    "forks_count": 1289
   },
   {
     "full_name": "ornicar/lila",
-    "stargazers_count": 10815,
-    "open_issues_count": 563,
-    "forks_count": 1557
+    "stargazers_count": 10829,
+    "open_issues_count": 559,
+    "forks_count": 1560
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 10792,
-    "open_issues_count": 277,
+    "stargazers_count": 10820,
+    "open_issues_count": 280,
     "forks_count": 449
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 16849,
-    "open_issues_count": 214,
-    "forks_count": 2589
+    "stargazers_count": 16867,
+    "open_issues_count": 216,
+    "forks_count": 2592
   }
 ]
