@@ -1,15 +1,15 @@
 [
   {
     "full_name": "DevonCrawford/Video-Editing-Automation",
-    "stargazers_count": 1070,
+    "stargazers_count": 1071,
     "open_issues_count": 8,
     "forks_count": 158
   },
   {
     "full_name": "fkhadra/react-toastify",
-    "stargazers_count": 8569,
-    "open_issues_count": 44,
-    "forks_count": 450
+    "stargazers_count": 8592,
+    "open_issues_count": 45,
+    "forks_count": 451
   },
   {
     "full_name": "prince776/discode",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "gojek/heimdall",
-    "stargazers_count": 2212,
+    "stargazers_count": 2214,
     "open_issues_count": 44,
     "forks_count": 190
   },
   {
     "full_name": "lexborisov/myhtml",
-    "stargazers_count": 1526,
+    "stargazers_count": 1528,
     "open_issues_count": 17,
     "forks_count": 147
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "pennersr/django-allauth",
-    "stargazers_count": 7097,
-    "open_issues_count": 313,
-    "forks_count": 2551
+    "stargazers_count": 7105,
+    "open_issues_count": 314,
+    "forks_count": 2554
   },
   {
     "full_name": "HotPotatoC/twitter-clone",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "joke2k/faker",
-    "stargazers_count": 13873,
+    "stargazers_count": 13887,
     "open_issues_count": 161,
-    "forks_count": 1590
+    "forks_count": 1588
   },
   {
     "full_name": "sk1122/Bayze-Kanban",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "benawad/dogehouse",
-    "stargazers_count": 9187,
+    "stargazers_count": 9186,
     "open_issues_count": 231,
     "forks_count": 1557
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "js-cookie/js-cookie",
-    "stargazers_count": 19199,
-    "open_issues_count": 2,
+    "stargazers_count": 19209,
+    "open_issues_count": 1,
     "forks_count": 2027
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "purnima143/Kurakoo",
-    "stargazers_count": 81,
+    "stargazers_count": 79,
     "open_issues_count": 24,
     "forks_count": 124
   },
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "pytube/pytube",
-    "stargazers_count": 5989,
-    "open_issues_count": 121,
-    "forks_count": 1356
+    "stargazers_count": 6002,
+    "open_issues_count": 122,
+    "forks_count": 1359
   },
   {
     "full_name": "ornicar/lila",
-    "stargazers_count": 10965,
-    "open_issues_count": 576,
-    "forks_count": 1589
+    "stargazers_count": 10973,
+    "open_issues_count": 564,
+    "forks_count": 1590
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11197,
-    "open_issues_count": 309,
-    "forks_count": 470
+    "stargazers_count": 11223,
+    "open_issues_count": 303,
+    "forks_count": 472
   },
   {
     "full_name": "sounishnath003/Educatify",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 17103,
-    "open_issues_count": 215,
+    "stargazers_count": 17122,
+    "open_issues_count": 218,
     "forks_count": 2622
   }
 ]
